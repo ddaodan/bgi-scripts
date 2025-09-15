@@ -1,0 +1,57 @@
+﻿{
+  "info": {
+    "name": "兰那罗-20-兰阐荼",
+    "type": "collect",
+    "authors": [
+      {
+        "name": "ddaodan",
+        "links": ""
+      }
+    ],
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n使用弓箭手角色，先打高的罐子再打矮的罐子",
+    "map_name": "Teyvat",
+    "bgi_version": "0.45.0",
+    "tags": [],
+    "last_modified_time": 1753603628982,
+    "enable_monster_loot_split": false
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 4042.7890625,
+      "y": -238.12353515625,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 4022.6123046875,
+      "y": -242.53662109375,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 3899.8564453125,
+      "y": -299.4462890625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": "3000"
+    },
+    {
+      "id": 4,
+      "x": 3893.83984375,
+      "y": -300.49560546875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    }
+  ]
+}

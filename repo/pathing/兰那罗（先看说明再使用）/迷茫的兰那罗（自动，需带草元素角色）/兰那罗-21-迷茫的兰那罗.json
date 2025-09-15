@@ -1,0 +1,184 @@
+﻿{
+  "info": {
+    "name": "兰那罗-21-迷茫的兰那罗",
+    "type": "collect",
+    "authors": [
+      {
+        "name": "ddaodan",
+        "links": ""
+      }
+    ],
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+    "map_name": "Teyvat",
+    "bgi_version": "0.45.0",
+    "tags": [],
+    "last_modified_time": 1753604682795,
+    "enable_monster_loot_split": false
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 4042.7890625,
+      "y": -238.12353515625,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 4022.6123046875,
+      "y": -242.53662109375,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 3840.416015625,
+      "y": -286.671875,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": "1000"
+    },
+    {
+      "id": 4,
+      "x": 3842.90625,
+      "y": -295.216796875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 3839.6630859375,
+      "y": -302.435546875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 3844.6474609375,
+      "y": -302.5458984375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 3848.2041015625,
+      "y": -302.03466796875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 3860.2763671875,
+      "y": -315.2451171875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 3871.9091796875,
+      "y": -324.802734375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": ""
+    },
+    {
+      "id": 10,
+      "x": 3867.5029296875,
+      "y": -338.5556640625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 11,
+      "x": 3859.37109375,
+      "y": -359.28759765625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 12,
+      "x": 3882.611328125,
+      "y": -367.55615234375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 13,
+      "x": 3921.5478515625,
+      "y": -391.97900390625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": ""
+    },
+    {
+      "id": 14,
+      "x": 3919.0009765625,
+      "y": -403.38427734375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 15,
+      "x": 3923.34375,
+      "y": -424.21337890625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "log_output",
+      "action_params": "如果这里被墙挡住，请先暂停脚本，对着大石头用雷元素角色打一下让石头升起来，然后对着下面的花弹琴。打开墙后，后面还有一个任务过去会强制触发。",
+      "locked": false
+    },
+    {
+      "id": 16,
+      "x": 3923.34375,
+      "y": -424.21337890625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 17,
+      "x": 3938.015625,
+      "y": -432.857421875,
+      "type": "target",
+      "move_mode": "jump",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 18,
+      "x": 3943.244140625,
+      "y": -432.8310546875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "柯莱 e;提纳里 e;纳西妲 e;瑶瑶 e;艾尔海森 e;卡维 e;白术 e;绮良良 e;艾梅莉埃 e;基尼奇 e;wait(2),keypress(f)"
+    }
+  ]
+}

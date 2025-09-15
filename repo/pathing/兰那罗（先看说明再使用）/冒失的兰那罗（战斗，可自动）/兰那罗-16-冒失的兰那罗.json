@@ -1,0 +1,66 @@
+﻿{
+  "info": {
+    "name": "兰那罗-16-冒失的兰那罗",
+    "type": "collect",
+    "authors": [
+      {
+        "name": "ddaodan",
+        "links": ""
+      }
+    ],
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed",
+    "map_name": "Teyvat",
+    "bgi_version": "0.45.0",
+    "tags": [],
+    "last_modified_time": 1753602900172,
+    "enable_monster_loot_split": false
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 3097.458984375,
+      "y": -355.623046875,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 3073.8505859375,
+      "y": -355.39306640625,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 3002.509765625,
+      "y": -375.9208984375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 2991.61328125,
+      "y": -380.82373046875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2982.171875,
+      "y": -384.6181640625,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "keypress(f)"
+    }
+  ]
+}
