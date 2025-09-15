@@ -1,0 +1,422 @@
+{
+  "time": "20250915192402",
+  "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
+  "file": "repo.json",
+  "indexes": [
+    {
+      "name": "pathing",
+      "type": "directory",
+      "children": [
+        {
+          "name": "兰那罗（先看说明再使用）",
+          "type": "directory",
+          "children": [
+            {
+              "name": "其他（手动，看脚本内说明）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-18-兰钵答.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n选择“3个”",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-20-兰阐荼.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n使用弓箭手角色，先打高的罐子再打矮的罐子",
+                  "tags": [
+                    "bgi≥0.45.0"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-3-兰陀尼什.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要手动完成，选择距离最近的木箱。完成后会有一个普通的宝箱",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-4-兰钵答.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要手动完成，选择“2个”。完成后会有一个普通的宝箱",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "冒失的兰那罗（战斗，可自动）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-1-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n由于后续需要三种星蕈，路线中会顺便采集，请带火元素和雷元素角色",
+                  "tags": [
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-11-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed",
+                  "tags": [
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-16-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-5-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed",
+                  "tags": [
+                    "战斗",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "收集材料的兰那罗（手动，需自行提交材料）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-10-收集材料的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请确保背包内有枯焦的星蕈、活化的星蕈、星蕈",
+                  "tags": [
+                    "bgi≥0.47.2",
+                    "战斗",
+                    "有日志"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-14-收集材料的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要提交材料：毗波耶、月莲",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-15-收集材料的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要提交材料：毗波耶、月莲",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "淘气的兰那罗（手动需解谜，脚本说明内有解谜方法）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-2-淘气的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素和雷元素角色，需要使用老旧的诗琴解锁草元素方碑，雷元素角色激活望远镜，小道具栏中装备老旧的诗琴\n脚本会在适当的时机在日志输出中进行提示，请按提示手动操作",
+                  "tags": [
+                    "战斗",
+                    "有日志",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "爱音乐的兰那罗（自动，需要装备老旧的诗琴）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-22-爱音乐的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要在小道具栏装备老旧的诗琴",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "四叶印",
+                    "有日志"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-6-爱音乐的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed、\n需要在小道具栏装备老旧的诗琴",
+                  "tags": [
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "迷茫的兰那罗（自动，需带草元素角色）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-12-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-13-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-17-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "bgi≥0.47.2"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-19-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-21-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "有日志"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-7-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-8-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "bgi≥0.47.2",
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-9-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素和雷元素角色",
+                  "tags": [
+                    "bgi≥0.47.2"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "js",
+      "type": "directory",
+      "children": [
+        {
+          "name": "76LivingDads",
+          "type": "directory",
+          "version": "0.0.1",
+          "author": "ddaodan",
+          "authors": [
+            {
+              "name": "ddaodan",
+              "link": "https://github.com/ddaodan"
+            }
+          ],
+          "description": "兰那罗~|~寻找76个兰那罗。部分兰那罗需要手动完成解密。",
+          "tags": [
+            "bgi≥0.47.2"
+          ],
+          "lastUpdated": "2025-09-15 19:23:50"
+        }
+      ]
+    }
+  ]
+}
