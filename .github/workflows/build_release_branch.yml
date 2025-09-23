@@ -9,7 +9,7 @@ on:
 jobs:
   build-and-release:
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'babalae'
+    if: github.repository_owner == 'ddaodan'
     
     permissions:
       contents: write
