@@ -1,5 +1,5 @@
 {
-  "time": "20250923185007",
+  "time": "20250924150001",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -388,6 +388,37 @@
                     "bgi≥0.47.2"
                   ],
                   "lastUpdated": "2025-09-15 11:24:03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "锚点",
+          "type": "directory",
+          "children": [
+            {
+              "name": "枫丹",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "枫丹-锚点-苍晶区-地面.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "yuzai",
+                  "authors": [
+                    {
+                      "name": "yuzai"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "枫丹",
+                    "转圈拾取"
+                  ],
+                  "lastUpdated": "2025-09-24 14:59:52"
                 }
               ]
             }
