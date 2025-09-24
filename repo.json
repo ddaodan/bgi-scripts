@@ -1,5 +1,5 @@
 {
-  "time": "20250924150001",
+  "time": "20250925003315",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -419,6 +419,394 @@
                     "转圈拾取"
                   ],
                   "lastUpdated": "2025-09-24 14:59:52"
+                }
+              ]
+            },
+            {
+              "name": "纳塔-悠悠度假村",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "00使用前请确保七天神像已开启.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "01-悠悠度假村-锚点01.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "02-悠悠度假村-锚点02.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "03-悠悠度假村-锚点03.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "04-悠悠度假村-锚点04.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "05-悠悠度假村-锚点05.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "06-悠悠度假村-锚点06.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "07-悠悠度假村-锚点07.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "08-悠悠度假村-锚点08.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "09-悠悠度假村-锚点09.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "10-悠悠度假村-锚点10.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "11-悠悠度假村-锚点11.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "12-悠悠度假村-锚点12.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "13-悠悠度假村-锚点13.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "14-悠悠度假村-锚点14.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "15-悠悠度假村-锚点15.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "16-悠悠度假村-锚点16.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "17-悠悠度假村-锚点17.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "18-悠悠度假村-锚点18.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "19-悠悠度假村-锚点19.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "20-悠悠度假村-锚点20.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
                 }
               ]
             }
