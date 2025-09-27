@@ -1,0 +1,84 @@
+{
+  "info": {
+    "name": "兰那罗-4-兰钵答",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n需要手动完成，选择“2个”。完成后会有一个普通的宝箱",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 2220.1376953125,
+      "y": -431.15380859375,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2188.3642578125,
+      "y": -394.642578125,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 2140.3291015625,
+      "y": -365.74755859375,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 2132.8359375,
+      "y": -345.8193359375,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2123.4365234375,
+      "y": -310.38720703125,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 2105.16015625,
+      "y": -296.9873046875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 2101.11328125,
+      "y": -273.103515625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 2116.310546875,
+      "y": -249.16748046875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    }
+  ]
+}

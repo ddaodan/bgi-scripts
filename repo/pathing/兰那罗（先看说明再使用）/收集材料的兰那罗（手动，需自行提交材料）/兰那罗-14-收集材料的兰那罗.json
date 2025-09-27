@@ -1,0 +1,75 @@
+{
+  "info": {
+    "name": "兰那罗-14-收集材料的兰那罗",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n需要提交材料：毗波耶、月莲",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 2651.3935546875,
+      "y": -564.38037109375,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2667.9140625,
+      "y": -559.05859375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 2678.9892578125,
+      "y": -563.13671875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 2694.0458984375,
+      "y": -576.30029296875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2700.8935546875,
+      "y": -587.55322265625,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 2721.236328125,
+      "y": -621.447265625,
+      "type": "target",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 2721.2578125,
+      "y": -621.52294921875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "wait(0.2),keypress(f)"
+    }
+  ]
+}
