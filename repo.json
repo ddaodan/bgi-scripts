@@ -1,5 +1,5 @@
 {
-  "time": "20250925003315",
+  "time": "20251003001135",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -397,6 +397,504 @@
           "name": "锚点",
           "type": "directory",
           "children": [
+            {
+              "name": "挪德卡莱希汐岛改",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "嘻嘻岛0-1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛1-2.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛2-3.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    },
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛5-6.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛6-7.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛7-8.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛8-9.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    },
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                }
+              ]
+            },
+            {
+              "name": "挪德卡莱帕哈岛",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "33-34.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "33-37.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "33-44.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "34-35.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "35-36.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "37-38.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "38-39.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "39-40.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "40-41.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "44-45.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                }
+              ]
+            },
+            {
+              "name": "挪德卡莱帕哈岛@梓暮轩",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "挪德卡莱帕哈岛",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "33-34.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "33-37.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "33-44.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "34-35.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "35-36.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "37-38.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "38-39.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "39-40.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "40-41.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "44-45.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "name": "枫丹",
               "type": "directory",
@@ -807,6 +1305,695 @@
                     "锚点"
                   ],
                   "lastUpdated": "2025-09-25 00:32:53"
+                }
+              ]
+            },
+            {
+              "name": "蒙德",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "坠星山谷",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "2-1.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-2.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-3.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-4.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-5.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-6.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-7.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-8.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-9.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "process.json",
+                      "type": "file",
+                      "version": "",
+                      "error": "Unexpected number in JSON at position 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "诺德卡莱伦波岛完善版",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "process.json",
+                  "type": "file",
+                  "version": "",
+                  "error": "Unexpected token 轮 in JSON at position 0"
+                },
+                {
+                  "name": "轮播岛0-1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛1-2前半.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛1-2后半.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛10-11.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛11-12.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛12-13.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛13-14.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛14-15.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛15-16.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛16-17.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛17-18.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛18-19.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛2-3.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛5-6.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛6-7.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛7-8.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛8-9.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "轮播岛9-10.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                }
+              ]
+            },
+            {
+              "name": "诺的卡来嘻嘻岛最终",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "嘻嘻岛1-2.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛2-3.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛5-6.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛6-7.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛7-8.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "嘻嘻岛8-9.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                }
+              ]
+            },
+            {
+              "name": "诺的卡来怕哈岛",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "怕哈岛1-2.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛2-3.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛5-6.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛6-7.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛7-8.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛8-9.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
+                },
+                {
+                  "name": "怕哈岛9-10.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-03 00:11:13"
                 }
               ]
             }
