@@ -1,0 +1,112 @@
+{
+  "info": {
+    "name": "兰那罗-6-爱音乐的兰那罗",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed、\n需要在小道具栏装备老旧的诗琴",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 2342.330078125,
+      "y": -4.67431640625,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2331.7080078125,
+      "y": -12.5546875,
+      "type": "orientation",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "moveby(0,-8000),wait(0.2),keypress(t),wait(2.5),j",
+      "locked": false
+    },
+    {
+      "id": 3,
+      "x": 2311.6953125,
+      "y": -8.0166015625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 2266.6279296875,
+      "y": -20.23779296875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2218.486328125,
+      "y": -57.6005859375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 2165.615234375,
+      "y": -31.27880859375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 2156.3935546875,
+      "y": -23.28173828125,
+      "type": "path",
+      "move_mode": "climb",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 2120.28125,
+      "y": 8.5263671875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 2108.6220703125,
+      "y": 16.93408203125,
+      "type": "path",
+      "move_mode": "climb",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 10,
+      "x": 2096.7646484375,
+      "y": 24.54833984375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 11,
+      "x": 2061.73828125,
+      "y": 41.990234375,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "wait(0.2),keypress(z),wait(1),keypress(r),wait(0.2),keypress(e),wait(0.2),keypress(t),wait(0.2),keypress(r),wait(0.2),keypress(q)"
+    }
+  ]
+}
