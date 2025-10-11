@@ -1,0 +1,112 @@
+{
+  "info": {
+    "name": "兰那罗-10-收集材料的兰那罗",
+    "type": "collect",
+    "authors": [
+      {
+        "name": "ddaodan",
+        "links": ""
+      }
+    ],
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n请确保背包内有枯焦的星蕈、活化的星蕈、星蕈",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2",
+    "tags": [],
+    "last_modified_time": 1753601077443,
+    "enable_monster_loot_split": false
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 2297.60546875,
+      "y": -824.55517578125,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 2281.5732421875,
+      "y": -774.4501953125,
+      "action": "stop_flying",
+      "move_mode": "fly",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 2281.671875,
+      "y": -769.42138671875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "w(2)"
+    },
+    {
+      "id": 4,
+      "x": 2275.0166015625,
+      "y": -701.7529296875,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2243.1240234375,
+      "y": -623.4560546875,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 2238.2001953125,
+      "y": -609.2236328125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 2232.52734375,
+      "y": -586.1630859375,
+      "type": "path",
+      "move_mode": "swim",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 2230.4052734375,
+      "y": -580.0107421875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 2220.88671875,
+      "y": -580.39013671875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "log_output",
+      "action_params": "请选择需要的材料并提交",
+      "locked": false
+    },
+    {
+      "id": 10,
+      "x": 2220.88671875,
+      "y": -580.39013671875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "keypress(f)"
+    }
+  ]
+}
