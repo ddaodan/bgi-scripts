@@ -1,0 +1,62 @@
+{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757752946327,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "轮播岛7-8",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9224.4736328125,
+      "y": 2246.38232421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9238.1669921875,
+      "y": 2274.219970703125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9180.2353515625,
+      "y": 2321.2314453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9131.658203125,
+      "y": 2330.4755859375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F),wait(0.3),keypress(F),wait(0.3)",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9095.505859375,
+      "y": 2298.693603515625
+    }
+  ]
+}

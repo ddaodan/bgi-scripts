@@ -1,0 +1,53 @@
+{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757746776522,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "轮播岛3-4",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9358.5927734375,
+      "y": 1856.29541015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9354.171875,
+      "y": 1872.8974609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9239.892578125,
+      "y": 1886.4111328125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F),wait(0.3),keypress(F),wait(0.3)",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9221.525390625,
+      "y": 1901.4521484375
+    }
+  ]
+}

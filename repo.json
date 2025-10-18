@@ -1,0 +1,2028 @@
+{
+  "time": "20251018182243",
+  "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
+  "file": "repo.json",
+  "indexes": [
+    {
+      "name": "pathing",
+      "type": "directory",
+      "children": [
+        {
+          "name": "兰那罗（先看说明再使用）",
+          "type": "directory",
+          "children": [
+            {
+              "name": "其他（手动，看脚本内说明）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-18-兰钵答.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n选择“3个”",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-20-兰阐荼.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n使用弓箭手角色，先打高的罐子再打矮的罐子",
+                  "tags": [
+                    "bgi≥0.45.0"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-3-兰陀尼什.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要手动完成，选择距离最近的木箱。完成后会有一个普通的宝箱",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-4-兰钵答.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要手动完成，选择“2个”。完成后会有一个普通的宝箱",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "冒失的兰那罗（战斗，可自动）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-1-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n由于后续需要三种星蕈，路线中会顺便采集，请带火元素和雷元素角色",
+                  "tags": [
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-11-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed",
+                  "tags": [
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-16-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-5-冒失的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed",
+                  "tags": [
+                    "战斗",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "收集材料的兰那罗（手动，需自行提交材料）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-10-收集材料的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请确保背包内有枯焦的星蕈、活化的星蕈、星蕈",
+                  "tags": [
+                    "bgi≥0.47.2",
+                    "战斗",
+                    "有日志"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-14-收集材料的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要提交材料：毗波耶、月莲",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-15-收集材料的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要提交材料：毗波耶、月莲",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "淘气的兰那罗（手动需解谜，脚本说明内有解谜方法）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-2-淘气的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素和雷元素角色，需要使用老旧的诗琴解锁草元素方碑，雷元素角色激活望远镜，小道具栏中装备老旧的诗琴\n脚本会在适当的时机在日志输出中进行提示，请按提示手动操作",
+                  "tags": [
+                    "战斗",
+                    "有日志",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "爱音乐的兰那罗（自动，需要装备老旧的诗琴）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-22-爱音乐的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n需要在小道具栏装备老旧的诗琴",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "四叶印",
+                    "有日志"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-6-爱音乐的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed、\n需要在小道具栏装备老旧的诗琴",
+                  "tags": [
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                }
+              ]
+            },
+            {
+              "name": "迷茫的兰那罗（自动，需带草元素角色）",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "兰那罗-12-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-13-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-17-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "bgi≥0.47.2"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-19-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-21-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "有日志"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-7-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-15 19:23:50"
+                },
+                {
+                  "name": "兰那罗-8-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+                  "tags": [
+                    "bgi≥0.47.2",
+                    "战斗"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                },
+                {
+                  "name": "兰那罗-9-迷茫的兰那罗.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "ddaodan",
+                  "authors": [
+                    {
+                      "name": "ddaodan"
+                    }
+                  ],
+                  "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素和雷元素角色",
+                  "tags": [
+                    "bgi≥0.47.2"
+                  ],
+                  "lastUpdated": "2025-09-15 11:24:03"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "锚点",
+          "type": "directory",
+          "children": [
+            {
+              "name": "挪德卡莱希汐岛改",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "嘻嘻岛0-1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛1-2.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛2-3.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    },
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛5-6.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛6-7.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛7-8.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛8-9.1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "风牛马",
+                  "authors": [
+                    {
+                      "name": "风牛马"
+                    },
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                }
+              ]
+            },
+            {
+              "name": "挪德卡莱帕哈岛",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "33-34.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "33-37.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "33-44.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "34-35.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "35-36.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "37-38.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "38-39.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "39-40.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "梓暮轩",
+                  "authors": [
+                    {
+                      "name": "梓暮轩"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "40-41.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "44-45.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                }
+              ]
+            },
+            {
+              "name": "挪德卡莱帕哈岛@梓暮轩",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "挪德卡莱帕哈岛",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "33-34.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "33-37.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "33-44.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "34-35.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "35-36.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "37-38.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "38-39.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "39-40.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "梓暮轩",
+                      "authors": [
+                        {
+                          "name": "梓暮轩"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "40-41.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    },
+                    {
+                      "name": "44-45.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-02 16:11:36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "枫丹",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "枫丹-锚点-苍晶区-地面.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "yuzai",
+                  "authors": [
+                    {
+                      "name": "yuzai"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "枫丹",
+                    "转圈拾取"
+                  ],
+                  "lastUpdated": "2025-09-24 14:59:52"
+                }
+              ]
+            },
+            {
+              "name": "纳塔-悠悠度假村",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "00使用前请确保七天神像已开启.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "01-悠悠度假村-锚点01.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "02-悠悠度假村-锚点02.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "03-悠悠度假村-锚点03.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "04-悠悠度假村-锚点04.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "05-悠悠度假村-锚点05.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "06-悠悠度假村-锚点06.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "07-悠悠度假村-锚点07.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "08-悠悠度假村-锚点08.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "09-悠悠度假村-锚点09.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "10-悠悠度假村-锚点10.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.48.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "11-悠悠度假村-锚点11.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "12-悠悠度假村-锚点12.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "13-悠悠度假村-锚点13.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "14-悠悠度假村-锚点14.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "15-悠悠度假村-锚点15.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "16-悠悠度假村-锚点16.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "17-悠悠度假村-锚点17.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "18-悠悠度假村-锚点18.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "19-悠悠度假村-锚点19.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                },
+                {
+                  "name": "20-悠悠度假村-锚点20.json",
+                  "type": "file",
+                  "version": "1.1",
+                  "author": "小大",
+                  "authors": [
+                    {
+                      "name": "小大",
+                      "link": "https://github.com/xd1145"
+                    }
+                  ],
+                  "description": "锚点",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-09-25 00:32:53"
+                }
+              ]
+            },
+            {
+              "name": "蒙德",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "坠星山谷",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "2-1.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-2.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-3.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-4.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-5.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-6.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-7.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-8.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "2-9.json",
+                      "type": "file",
+                      "version": "20251003001113",
+                      "author": "",
+                      "authors": null,
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.45.0",
+                        "锚点",
+                        "蒙德",
+                        "坠星山谷"
+                      ],
+                      "lastUpdated": "2025-10-03 00:11:13"
+                    },
+                    {
+                      "name": "process.json",
+                      "type": "file",
+                      "version": "",
+                      "error": "Unexpected non-whitespace character after JSON at position 1 (line 1 column 2)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "诺德卡莱伦波岛完善版",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "process.json",
+                  "type": "file",
+                  "version": "",
+                  "error": "Unexpected token '轮', \"轮播岛0-1.jso\"... is not valid JSON"
+                },
+                {
+                  "name": "轮播岛0-1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛1-2前半.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛1-2后半.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛10-11.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛11-12.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛12-13.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛13-14.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛14-15.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛15-16.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛16-17.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛17-18.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛18-19.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛2-3.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛5-6.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛6-7.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛7-8.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛8-9.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "轮播岛9-10.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                }
+              ]
+            },
+            {
+              "name": "诺的卡来嘻嘻岛最终",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "嘻嘻岛1-2.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛2-3.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛5-6.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛6-7.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛7-8.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "嘻嘻岛8-9.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                }
+              ]
+            },
+            {
+              "name": "诺的卡来怕哈岛",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "怕哈岛1-2.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛1.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛2-3.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛3-4.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛4-5.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛5-6.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛6-7.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛7-8.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛8-9.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                },
+                {
+                  "name": "怕哈岛9-10.json",
+                  "type": "file",
+                  "version": "1.0",
+                  "author": "",
+                  "authors": null,
+                  "description": "",
+                  "tags": [
+                    "bgi≥0.45.0",
+                    "锚点",
+                    "有攀爬"
+                  ],
+                  "lastUpdated": "2025-10-02 16:11:36"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "js",
+      "type": "directory",
+      "children": [
+        {
+          "name": "76LivingDads",
+          "type": "directory",
+          "version": "0.0.1",
+          "author": "ddaodan",
+          "authors": [
+            {
+              "name": "ddaodan",
+              "link": "https://github.com/ddaodan"
+            }
+          ],
+          "description": "兰那罗~|~寻找76个兰那罗。部分兰那罗需要手动完成解密。",
+          "tags": [
+            "bgi≥0.47.2"
+          ],
+          "lastUpdated": "2025-09-15 19:23:50"
+        }
+      ]
+    }
+  ]
+}

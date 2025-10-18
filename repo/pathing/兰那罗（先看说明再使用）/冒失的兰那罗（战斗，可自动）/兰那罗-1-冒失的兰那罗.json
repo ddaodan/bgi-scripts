@@ -1,0 +1,139 @@
+{
+  "info": {
+    "name": "兰那罗-1-冒失的兰那罗",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n由于后续需要三种星蕈，路线中会顺便采集，请带火元素和雷元素角色",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 2399.8974609375,
+      "y": 143.5126953125,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2410.669921875,
+      "y": 152.04345703125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 2504.6328125,
+      "y": 224.6083984375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 2504.525390625,
+      "y": 228.6103515625,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2528.65234375,
+      "y": 238.73486328125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 6,
+      "x": 2532.376953125,
+      "y": 248.04541015625,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "electro_collect",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 2528.65234375,
+      "y": 238.73486328125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 2547.556640625,
+      "y": 250.7861328125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 2559.2099609375,
+      "y": 281.90673828125,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "pyro_collect",
+      "action_params": ""
+    },
+    {
+      "id": 10,
+      "x": 2549.0126953125,
+      "y": 284.26708984375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 11,
+      "x": 2541.4326171875,
+      "y": 307.9326171875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 12,
+      "x": 2531.6650390625,
+      "y": 334.26416015625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 13,
+      "x": 2531.1318359375,
+      "y": 335.5107421875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 14,
+      "x": 2535.45703125,
+      "y": 342.4482421875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "wait(0.2),keypress(f)"
+    }
+  ]
+}
