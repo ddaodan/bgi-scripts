@@ -1,0 +1,197 @@
+{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757768941521,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "44-45",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9593.9560546875,
+      "y": 3397.070556640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9582.552734375,
+      "y": 3414.03271484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9595.171875,
+      "y": 3431.04150390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9614.6572265625,
+      "y": 3451.3779296875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9650.4970703125,
+      "y": 3464.79150390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9677.5517578125,
+      "y": 3481.578369140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9699.490234375,
+      "y": 3495.450439453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9735.4638671875,
+      "y": 3521.906982421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9742.52734375,
+      "y": 3558.96435546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9773.7998046875,
+      "y": 3551.89599609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 9833.927734375,
+      "y": 3551.73193359375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9845.728515625,
+      "y": 3565.141357421875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9851.5205078125,
+      "y": 3553.099365234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 14,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 9852.9169921875,
+      "y": 3551.0166015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 15,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 9855.44921875,
+      "y": 3547.95166015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 16,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9858.8818359375,
+      "y": 3543.749755859375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 17,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9861.00390625,
+      "y": 3544.814697265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 18,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 9861.69140625,
+      "y": 3545.5166015625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 19,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 9869.8857421875,
+      "y": 3582.891357421875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F)",
+      "id": 20,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 9873.2099609375,
+      "y": 3593.923828125
+    }
+  ]
+}

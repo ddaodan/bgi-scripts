@@ -1,0 +1,89 @@
+{
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757686393305,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "嘻嘻岛2-3",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 10525.1591796875,
+      "y": 1918.998046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10511.8125,
+      "y": 1915.5224609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10512.9609375,
+      "y": 1892.9951171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10533.763671875,
+      "y": 1870.34619140625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "jump",
+      "type": "path",
+      "x": 10543.58984375,
+      "y": 1848.80322265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "run",
+      "type": "path",
+      "x": 10544.091796875,
+      "y": 1848.0849609375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 10544.1142578125,
+      "y": 1839.28662109375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F),wait(0.3),keypress(F)",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10551.91796875,
+      "y": 1783.00537109375
+    }
+  ]
+}

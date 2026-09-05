@@ -1,0 +1,129 @@
+{
+  "config": {
+    "realtime_triggers": {
+      "AutoPick": true
+    }
+  },
+  "farming_info": {
+    "allow_farming_count": false,
+    "duration_seconds": 0,
+    "elite_details": "",
+    "elite_mob_count": 0,
+    "normal_mob_count": 0,
+    "primary_target": "",
+    "total_mora": 0
+  },
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "items": [],
+    "last_modified_time": 1759325411687,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "2-5",
+    "order": 0,
+    "tags": [],
+    "type": "collect",
+    "version": ""
+  },
+  "positions": [
+    {
+      "action": "",
+      "id": 1,
+      "move_mode": "fly",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "teleport",
+      "x": -1530.8828125,
+      "y": 1977.52783203125
+    },
+    {
+      "action": "",
+      "id": 2,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1558.328125,
+      "y": 2091.845703125
+    },
+    {
+      "action": "",
+      "id": 3,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1605.337890625,
+      "y": 2122.99072265625
+    },
+    {
+      "action": "",
+      "id": 4,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1632.01953125,
+      "y": 2154.71826171875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 5,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1640.66796875,
+      "y": 2160.3173828125
+    }
+  ]
+}

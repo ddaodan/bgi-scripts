@@ -1,0 +1,139 @@
+{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "风牛马"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757742208401,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "嘻嘻岛7-8.1",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 10755.626953125,
+      "y": 2055.1640625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10762.1669921875,
+      "y": 2057.5185546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10766.306640625,
+      "y": 2055.059814453125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10775,
+      "y": 2057.4775390625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10788.654296875,
+      "y": 2056.427490234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10805.2666015625,
+      "y": 2060.440185546875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 10785.595703125,
+      "y": 2159.801513671875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10783.708984375,
+      "y": 2161.905517578125
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 9,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 10782.8779296875,
+      "y": 2168.0576171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 10,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 10782.388671875,
+      "y": 2171.104248046875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 11,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 10781.677734375,
+      "y": 2176.17724609375
+    },
+    {
+      "action": "stop_flying",
+      "action_params": "",
+      "id": 12,
+      "move_mode": "fly",
+      "type": "path",
+      "x": 10789.79296875,
+      "y": 2276.0791015625
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F),wait(0.3),keypress(F)",
+      "id": 13,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 10791.7939453125,
+      "y": 2278.413330078125
+    }
+  ]
+}

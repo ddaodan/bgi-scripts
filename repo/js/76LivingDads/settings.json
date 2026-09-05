@@ -1,0 +1,14 @@
+[
+    {
+        "name": "check",
+        "type": "checkbox",
+        "label": "请根据脚本说明进行设置，确认无误后勾选",
+        "default": false
+    },
+    {
+        "name": "uid",
+        "type": "text",
+        "label": "执行脚本的UID\n仅记录用，不会识别确认，因此你也可以随便填",
+        "default": "1"
+    }
+]
