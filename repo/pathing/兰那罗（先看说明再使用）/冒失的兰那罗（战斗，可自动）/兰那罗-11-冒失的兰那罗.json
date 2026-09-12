@@ -1,0 +1,58 @@
+{
+  "info": {
+    "name": "兰那罗-11-冒失的兰那罗",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 2803.8291015625,
+      "y": 9.35400390625,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2790.7958984375,
+      "y": -6.330078125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 2764.3916015625,
+      "y": -33.3720703125,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 4,
+      "x": 2764.3916015625,
+      "y": -33.3720703125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 2765.89453125,
+      "y": -30.60888671875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "wait(0.2),keypress(f)"
+    }
+  ]
+}

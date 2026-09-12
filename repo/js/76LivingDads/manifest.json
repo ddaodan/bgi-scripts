@@ -1,0 +1,16 @@
+{
+    "manifest_version": 1,
+    "name": "兰那罗",
+    "version": "0.0.1",
+    "bgi_version": "0.47.2",
+    "description": "寻找76个兰那罗。部分兰那罗需要手动完成解密。",
+    "authors": [
+      {
+        "name": "ddaodan",
+        "link": "https://github.com/ddaodan"
+      }
+    ],
+    "settings_ui": "settings.json",
+    "main": "main.js"
+  }
+  

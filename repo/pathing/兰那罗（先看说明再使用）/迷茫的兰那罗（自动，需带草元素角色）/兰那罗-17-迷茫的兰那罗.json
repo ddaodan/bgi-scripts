@@ -1,0 +1,129 @@
+{
+  "info": {
+    "name": "兰那罗-17-迷茫的兰那罗",
+    "type": "collect",
+    "authors": [
+      {
+        "name": "ddaodan",
+        "links": ""
+      }
+    ],
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+    "map_name": "Teyvat",
+    "bgi_version": "0.47.2",
+    "tags": [],
+    "last_modified_time": 1753602624029,
+    "enable_monster_loot_split": false
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 3291.22265625,
+      "y": -327.9267578125,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 3303.0126953125,
+      "y": -316.0302734375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 3315.056640625,
+      "y": -306.97998046875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 3321.669921875,
+      "y": -299.140625,
+      "type": "path",
+      "move_mode": "jump",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 3327.0078125,
+      "y": -274.025390625,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 3345.283203125,
+      "y": -255.73046875,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 3361.2236328125,
+      "y": -260.5400390625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 3378.583984375,
+      "y": -287.79931640625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 3395.8203125,
+      "y": -315.31689453125,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 10,
+      "x": 3387.3603515625,
+      "y": -336.353515625,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 11,
+      "x": 3367.94140625,
+      "y": -348.48046875,
+      "type": "target",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 12,
+      "x": 3367.36328125,
+      "y": -353.4482421875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "柯莱 e;提纳里 e;纳西妲 e;瑶瑶 e;艾尔海森 e;卡维 e;白术 e;绮良良 e;艾梅莉埃 e;基尼奇 e;wait(2),keypress(f)"
+    }
+  ]
+}
