@@ -1,0 +1,103 @@
+{
+  "info": {
+    "authors": [
+      {
+        "links": "",
+        "name": "梓暮轩"
+      }
+    ],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1757741818628,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "嘻嘻岛5-6.1",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
+  },
+  "positions": [
+    {
+      "action": "",
+      "action_params": "",
+      "id": 1,
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 10973.5234375,
+      "y": 1682.43701171875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 10960.724609375,
+      "y": 1680.15234375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 3,
+      "move_mode": "dash",
+      "type": "path",
+      "x": 10981.6279296875,
+      "y": 1630.84228515625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 4,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 11026.26171875,
+      "y": 1571.392578125
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(SPACE),wait(1.15),keypress(SPACE),wait(0.05),keydown(W),wait(0.2),keyup(W)",
+      "id": 5,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 11028.90625,
+      "y": 1572.9072265625
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 6,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 11042.564453125,
+      "y": 1577.2529296875
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 7,
+      "move_mode": "climb",
+      "type": "path",
+      "x": 11046.515625,
+      "y": 1574.5771484375
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 8,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 11053.3193359375,
+      "y": 1580.55419921875
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3),keypress(F)",
+      "id": 9,
+      "move_mode": "walk",
+      "type": "target",
+      "x": 11061.9287109375,
+      "y": 1588.818359375
+    }
+  ]
+}

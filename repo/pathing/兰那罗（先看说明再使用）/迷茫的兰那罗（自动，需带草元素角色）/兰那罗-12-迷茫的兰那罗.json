@@ -1,0 +1,66 @@
+{
+  "info": {
+    "name": "兰那罗-12-迷茫的兰那罗",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素角色",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 2532,
+      "y": -144.689453125,
+      "type": "teleport",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2552.2431640625,
+      "y": -125.4619140625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 2586.767578125,
+      "y": -84.3818359375,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 2581.4951171875,
+      "y": -81.1318359375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "wait(2)"
+    },
+    {
+      "id": 5,
+      "x": 2562.0400390625,
+      "y": -84.7548828125,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 2558.3720703125,
+      "y": -86.00634765625,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "柯莱 e;提纳里 e;纳西妲 e;瑶瑶 e;艾尔海森 e;卡维 e;白术 e;绮良良 e;艾梅莉埃 e;基尼奇 e;wait(0.2),keypress(f)"
+    }
+  ]
+}
