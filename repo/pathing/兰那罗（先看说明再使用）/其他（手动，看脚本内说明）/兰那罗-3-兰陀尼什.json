@@ -1,0 +1,39 @@
+{
+  "info": {
+    "name": "兰那罗-3-兰陀尼什",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n需要手动完成，选择距离最近的木箱。完成后会有一个普通的宝箱",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 2409.8525390625,
+      "y": 349.06787109375,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 2311.0185546875,
+      "y": 376.951171875,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 2312.59375,
+      "y": 377.72998046875,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "wait(0.2),keypress(f)"
+    }
+  ]
+}
