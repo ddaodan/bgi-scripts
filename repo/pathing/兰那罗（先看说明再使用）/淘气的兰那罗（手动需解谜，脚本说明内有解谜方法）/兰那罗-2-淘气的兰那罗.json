@@ -1,0 +1,131 @@
+{
+  "info": {
+    "name": "兰那罗-2-淘气的兰那罗",
+    "type": "collect",
+    "author": "ddaodan",
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n请带草元素和雷元素角色，需要使用老旧的诗琴解锁草元素方碑，雷元素角色激活望远镜，小道具栏中装备老旧的诗琴\n脚本会在适当的时机在日志输出中进行提示，请按提示手动操作",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "x": 2409.857421875,
+      "y": 349.09375,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "teleport"
+    },
+    {
+      "id": 2,
+      "x": 2429.2685546875,
+      "y": 340.12548828125,
+      "action": "combat_script",
+      "move_mode": "climb",
+      "action_params": "wait(5)",
+      "type": "path"
+    },
+    {
+      "id": 3,
+      "x": 2443.0927734375,
+      "y": 327.203125,
+      "action": "",
+      "move_mode": "climb",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 4,
+      "x": 2457.3701171875,
+      "y": 325.3779296875,
+      "action": "fight",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "path"
+    },
+    {
+      "id": 5,
+      "x": 2460.6376953125,
+      "y": 324.17041015625,
+      "action": "log_output",
+      "move_mode": "walk",
+      "action_params": "请使用老旧的诗琴手动弹奏，脚本将暂停30秒",
+      "type": "target",
+      "locked": false
+    },
+    {
+      "id": 6,
+      "x": 2460.6376953125,
+      "y": 324.17041015625,
+      "action": "combat_script",
+      "move_mode": "walk",
+      "action_params": "wait(30)",
+      "type": "target"
+    },
+    {
+      "id": 7,
+      "x": 2461.923828125,
+      "y": 320.83203125,
+      "action": "combat_script",
+      "move_mode": "walk",
+      "action_params": "柯莱 e;提纳里 e;纳西妲 e;瑶瑶 e;艾尔海森 e;卡维 e;白术 e;绮良良 e;艾梅莉埃 e;基尼奇 e",
+      "type": "orientation"
+    },
+    {
+      "id": 8,
+      "x": 2459.314453125,
+      "y": 318.060546875,
+      "action": "combat_script",
+      "move_mode": "walk",
+      "action_params": "wait(5)",
+      "type": "target"
+    },
+    {
+      "id": 9,
+      "x": 2460.848185675737,
+      "y": 305.4110367592011,
+      "action": "electro_collect",
+      "move_mode": "climb",
+      "action_params": "",
+      "type": "path",
+      "locked": false
+    },
+    {
+      "id": 10,
+      "x": 2460.848185675737,
+      "y": 305.4110367592011,
+      "action": "log_output",
+      "move_mode": "walk",
+      "action_params": "请在开启望远镜后，按住鼠标左键向右下方滑动，兰那罗在你的右边。脚本将暂停10秒",
+      "type": "path"
+    },
+    {
+      "id": 11,
+      "x": 2460.848185675737,
+      "y": 305.4110367592011,
+      "action": "combat_script",
+      "move_mode": "walk",
+      "action_params": "wait(0.2),keypress(s),wait(0.2),keypress(w),wait(0.2),keypress(f),wait(10)",
+      "type": "path"
+    },
+    {
+      "id": 12,
+      "x": 2457.9853515625,
+      "y": 306.33056640625,
+      "action": "",
+      "move_mode": "walk",
+      "action_params": "",
+      "type": "target"
+    },
+    {
+      "id": 13,
+      "x": 2457.7958984375,
+      "y": 309.1591796875,
+      "action": "combat_script",
+      "move_mode": "walk",
+      "action_params": "wait(0.2),keypress(f),wait(0.2),keypress(f),wait(0.2),keypress(f)",
+      "type": "target"
+    }
+  ]
+}
