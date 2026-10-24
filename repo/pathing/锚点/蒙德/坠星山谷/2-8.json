@@ -1,0 +1,300 @@
+{
+  "config": {
+    "realtime_triggers": {
+      "AutoPick": true
+    }
+  },
+  "farming_info": {
+    "allow_farming_count": false,
+    "duration_seconds": 0,
+    "elite_details": "",
+    "elite_mob_count": 0,
+    "normal_mob_count": 0,
+    "primary_target": "",
+    "total_mora": 0
+  },
+  "info": {
+    "authors": [],
+    "bgi_version": "0.45.0",
+    "description": "",
+    "enable_monster_loot_split": false,
+    "items": [],
+    "last_modified_time": 1759326043442,
+    "map_match_method": "SIFT",
+    "map_name": "Teyvat",
+    "name": "2-8",
+    "order": 0,
+    "tags": [],
+    "type": "collect",
+    "version": ""
+  },
+  "positions": [
+    {
+      "action": "",
+      "id": 1,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "teleport",
+      "x": -1329.84375,
+      "y": 2564.181884765625
+    },
+    {
+      "action": "",
+      "id": 2,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1318.572265625,
+      "y": 2562.110107421875
+    },
+    {
+      "action": "",
+      "id": 3,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1303.671875,
+      "y": 2551.37353515625
+    },
+    {
+      "action": "",
+      "id": 4,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1282.201171875,
+      "y": 2537.13623046875
+    },
+    {
+      "action": "",
+      "id": 5,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1230.658203125,
+      "y": 2538.8505859375
+    },
+    {
+      "action": "",
+      "id": 6,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1185.650390625,
+      "y": 2523.69091796875
+    },
+    {
+      "action": "",
+      "id": 7,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1174.09765625,
+      "y": 2545.20361328125
+    },
+    {
+      "action": "",
+      "id": 8,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1172.216796875,
+      "y": 2596.979248046875
+    },
+    {
+      "action": "",
+      "id": 9,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1191.765625,
+      "y": 2653.38623046875
+    },
+    {
+      "action": "",
+      "id": 10,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1186.529296875,
+      "y": 2664.58740234375
+    },
+    {
+      "action": "",
+      "id": 11,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1205.125,
+      "y": 2683.74755859375
+    },
+    {
+      "action": "",
+      "id": 12,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1246.177734375,
+      "y": 2694.826171875
+    },
+    {
+      "action": "",
+      "id": 13,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1258.84765625,
+      "y": 2712.4375
+    },
+    {
+      "action": "combat_script",
+      "action_params": "keypress(F),wait(0.3)",
+      "id": 14,
+      "move_mode": "walk",
+      "point_ext_params": {
+        "description": "",
+        "enable_monster_loot_split": false,
+        "misidentification": {
+          "arrival_time": 0,
+          "handling_mode": "previousDetectedPoint",
+          "type": [
+            "unrecognized"
+          ]
+        }
+      },
+      "type": "path",
+      "x": -1270.42578125,
+      "y": 2722.134521484375
+    }
+  ]
+}
