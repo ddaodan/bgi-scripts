@@ -1,0 +1,243 @@
+{
+  "info": {
+    "name": "兰那罗-22-爱音乐的兰那罗",
+    "type": "collect",
+    "authors": [],
+    "version": "1.0",
+    "description": "兰那罗点位参考：BV1Cd4y197ed\n需要在小道具栏装备老旧的诗琴",
+    "map_name": "Teyvat",
+    "bgi_version": "0.45.0",
+    "tags": [],
+    "last_modified_time": 1753606532824,
+    "enable_monster_loot_split": false
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 3348.537109375,
+      "y": -826.384765625,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 3345.6015625,
+      "y": -836.5185546875,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": "2500"
+    },
+    {
+      "id": 3,
+      "x": 3332.119140625,
+      "y": -834.0595703125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 3320.4365234375,
+      "y": -811.00537109375,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 5,
+      "x": 3320.4365234375,
+      "y": -811.00537109375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "log_output",
+      "action_params": "如果被挡住了说明你有任务没做完"
+    },
+    {
+      "id": 6,
+      "x": 3304.984375,
+      "y": -806.875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 3294.412109375,
+      "y": -813.009765625,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 3265.2265625,
+      "y": -842.8896484375,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 3241.9365234375,
+      "y": -851.49755859375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 10,
+      "x": 3236.630859375,
+      "y": -871.8603515625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "up_down_grab_leaf",
+      "action_params": ""
+    },
+    {
+      "id": 11,
+      "x": 3255.3896484375,
+      "y": -909.96337890625,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 12,
+      "x": 3234.69140625,
+      "y": -929.36181640625,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 13,
+      "x": 3217.4287109375,
+      "y": -927.603515625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 14,
+      "x": 3192.6826171875,
+      "y": -907.18798828125,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 15,
+      "x": 3143.919921875,
+      "y": -902.13623046875,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 16,
+      "x": 3126.494140625,
+      "y": -883.271484375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 17,
+      "x": 3111.455078125,
+      "y": -864.322265625,
+      "type": "path",
+      "move_mode": "jump",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 18,
+      "x": 3120.1171875,
+      "y": -839.12158203125,
+      "type": "path",
+      "move_mode": "dash",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 19,
+      "x": 3132.88671875,
+      "y": -837.2275390625,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 20,
+      "x": 3137.5029296875,
+      "y": -837.265625,
+      "type": "orientation",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "w(1)"
+    },
+    {
+      "id": 21,
+      "x": 3171.8798828125,
+      "y": -825.35205078125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "up_down_grab_leaf",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 22,
+      "x": 3171.8798828125,
+      "y": -825.35205078125,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": ""
+    },
+    {
+      "id": 23,
+      "x": 3182.2138671875,
+      "y": -822.203125,
+      "type": "target",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 24,
+      "x": 3187.494140625,
+      "y": -822.6142578125,
+      "type": "orientation",
+      "move_mode": "walk",
+      "action": "combat_script",
+      "action_params": "w(1)"
+    },
+    {
+      "id": 25,
+      "x": 3190.328125,
+      "y": -799.1796875,
+      "type": "target",
+      "move_mode": "dash",
+      "action": "combat_script",
+      "action_params": "wait(2),keypress(z),wait(1),keypress(r),wait(0.2),keypress(e),wait(0.2),keypress(t),wait(0.2),keypress(r),wait(0.2),keypress(q)"
+    }
+  ]
+}
